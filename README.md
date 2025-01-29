@@ -1,3 +1,9 @@
+## Running HTML/Server: 
+
+To see my html, simply right click on the letter.html file and hit "Open With Live Server" which should be at or near the top.
+
+
+
 # web-dev-starter
 
 This is a starter project for web development with no frameworks and minimal
